@@ -18,12 +18,12 @@ const HomeNav = () => {
               </Link>
             </div>
           })}
-          <div className="col-lg-2 col-md-4 col-sm-6 mt-3 mb-3 mt-lg-3 mb-lg-3 mr-auto">
+          {/* <div className="col-lg-2 col-md-4 col-sm-6 mt-3 mb-3 mt-lg-3 mb-lg-3 mr-auto">
             <a href="#" className="img-box">
               <span className="img"><img src="/assets/images/menu-img/cs.jpg" alt="" /></span>
               <span className="text">Coming Soon</span>
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
     </li>

@@ -30,7 +30,7 @@ const SidebarCommerce = ({ home_9,setIsSidebarOpen,isSidebarOpen }) => {
 							</li>
 							<li>
 								<Link href="/features">
-									<a>Features</a>
+									<a>What We do?</a>
 								</Link>
 							</li>
 							<li className="dropdown-holder">
@@ -41,7 +41,7 @@ const SidebarCommerce = ({ home_9,setIsSidebarOpen,isSidebarOpen }) => {
 								<ul className={`sub-menu ${showSubMenu?'show':''}`}>
 									<li>
 										<Link href="/service-creative">
-											<a>Services</a>
+											<a>Servicessss</a>
 										</Link>
 									</li>
 									<li>

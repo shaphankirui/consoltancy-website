@@ -1,55 +1,55 @@
 const menu_data = {
   homes_data: [
-    {
-      link: '/',
-      title: 'Creative Agency',
-      img: '/assets/images/menu-img/home-1.jpg'
-    },
-    {
-      link: '/home-2',
-      title: 'SEO & Business',
-      img: '/assets/images/menu-img/home-2.jpg'
-    },
-    {
-      link: '/home-3',
-      title: 'Personal Portfolio',
-      img: '/assets/images/menu-img/home-3.jpg'
-    },
-    {
-      link: '/home-4',
-      title: 'Personal Portfolio (Particles)',
-      img: '/assets/images/menu-img/home-7.jpg'
-    },
-    {
-      link: '/home-5',
-      title: 'Saas Landing',
-      img: '/assets/images/menu-img/home-5.jpg'
-    },
-    {
-      link: '/home-6',
-      title: 'Mobile App Landing',
-      img: '/assets/images/menu-img/home-4.jpg'
-    },
-    {
-      link: '/home-7',
-      title: 'eCommerce',
-      img: '/assets/images/menu-img/home-6.jpg'
-    },
-    {
-      link: '/home-8',
-      title: 'Architecture',
-      img: '/assets/images/menu-img/home-8.jpg'
-    },
-    {
-      link: '/home-9',
-      title: 'Portfolio Studio',
-      img: '/assets/images/menu-img/home-9.jpg'
-    },
-    {
-      link: '/home-10',
-      title: 'Portfolio Studio Two',
-      img: '/assets/images/menu-img/home-10.jpg'
-    },
+    // {
+    //   link: '/',
+    //   title: 'Creative Agency',
+    //   img: '/assets/images/menu-img/home-1.jpg'
+    // },
+    // {
+    //   link: '/home-2',
+    //   title: 'SEO & Business',
+    //   img: '/assets/images/menu-img/home-2.jpg'
+    // },
+    // {
+    //   link: '/home-3',
+    //   title: 'Personal Portfolio',
+    //   img: '/assets/images/menu-img/home-3.jpg'
+    // },
+    // {
+    //   link: '/home-4',
+    //   title: 'Personal Portfolio (Particles)',
+    //   img: '/assets/images/menu-img/home-7.jpg'
+    // },
+    // {
+    //   link: '/home-5',
+    //   title: 'Saas Landing',
+    //   img: '/assets/images/menu-img/home-5.jpg'
+    // },
+    // {
+    //   link: '/home-6',
+    //   title: 'Mobile App Landing',
+    //   img: '/assets/images/menu-img/home-4.jpg'
+    // },
+    // {
+    //   link: '/home-7',
+    //   title: 'eCommerce',
+    //   img: '/assets/images/menu-img/home-6.jpg'
+    // },
+    // {
+    //   link: '/home-8',
+    //   title: 'Architecture',
+    //   img: '/assets/images/menu-img/home-8.jpg'
+    // },
+    // {
+    //   link: '/home-9',
+    //   title: 'Portfolio Studio',
+    //   img: '/assets/images/menu-img/home-9.jpg'
+    // },
+    // {
+    //   link: '/home-10',
+    //   title: 'Portfolio Studio Two',
+    //   img: '/assets/images/menu-img/home-10.jpg'
+    // },
   ],
   pages: {
     link: '/about-us-agency',
@@ -58,16 +58,16 @@ const menu_data = {
       {
         link: 'about-us-agency',
         title: 'About Us',
-        submenu: [
-          {
-            link: 'about-us-agency',
-            title: 'About Us agency',
-          },
-          {
-            link: 'about-us-standard',
-            title: 'About Us standard',
-          },
-        ]
+        // submenu: [
+        //   {
+        //     link: 'about-us-agency',
+        //     title: 'About Us agency',
+        //   },
+        //   {
+        //     link: 'about-us-standard',
+        //     title: 'About Us standard',
+        //   },
+        // ]
       },
       {
         link: 'project-full-width',
@@ -153,58 +153,58 @@ const menu_data = {
       {
         link: 'team-business',
         title: 'Team',
-        submenu: [
-          {
-            link: 'team-business',
-            title: 'Team Business',
-          },
-          {
-            link: 'team-minimal',
-            title: 'Team minimal',
-          },
-          {
-            link: 'team-standard',
-            title: 'Team standard',
-          },
-        ]
+        // submenu: [
+        //   {
+        //     link: 'team-business',
+        //     title: 'Team Business',
+        //   },
+        //   {
+        //     link: 'team-minimal',
+        //     title: 'Team minimal',
+        //   },
+        //   {
+        //     link: 'team-standard',
+        //     title: 'Team standard',
+        //   },
+        // ]
       },
       {
         link: 'contact-us-agency',
         title: 'Contact Us',
-        submenu: [
-          {
-            link: 'contact-us-agency',
-            title: 'Contact Agency',
-          },
-          {
-            link: 'contact-us-minimal',
-            title: 'Contact Minimal',
-          },
-          {
-            link: 'contact-us-standard',
-            title: 'Contact standard',
-          },
-        ]
+        // submenu: [
+        //   {
+        //     link: 'contact-us-agency',
+        //     title: 'Contact Agency',
+        //   },
+        //   {
+        //     link: 'contact-us-minimal',
+        //     title: 'Contact Minimal',
+        //   },
+        //   {
+        //     link: 'contact-us-standard',
+        //     title: 'Contact standard',
+        //   },
+        // ]
       },
-      {
-        link: '404',
-        title: 'Error',
-        submenu: [
-          {
-            link: '404',
-            title: 'Error Creative',
-          },
-          {
-            link: '404-standard',
-            title: 'Error Standard',
-          },
-        ]
-      },
+      // {
+      //   link: '404',
+      //   title: 'Error',
+      //   submenu: [
+      //     {
+      //       link: '404',
+      //       title: 'Error Creative',
+      //     },
+      //     {
+      //       link: '404-standard',
+      //       title: 'Error Standard',
+      //     },
+      //   ]
+      // },
     ]
   },
   features: {
     link: '/features',
-    title: 'Features.',
+    title: 'What We Do?.',
     dropdown: [
       {
         link: 'shop',
@@ -232,41 +232,41 @@ const menu_data = {
         link: 'features',
         title: 'Features',
       },
-      {
-        link: 'faq',
-        title: 'Faq',
-      },
-      {
-        link: 'checkout',
-        title: 'Checkout',
-      },
-      {
-        link: 'cart',
-        title: 'Cart',
-      },
-      {
-        link: 'login-standard',
-        title: 'User pages',
-        new: true,
-        submenu: [
-          {
-            link: 'login-standard',
-            title: 'Login Standard',
-          },
-          {
-            link: 'login-minimal',
-            title: 'Login Minimal',
-          },
-          {
-            link: 'sign-up-standard',
-            title: 'Sign-Up Standard',
-          },
-          {
-            link: 'sign-up-minimal',
-            title: 'Sign-Up Minimal',
-          },
-        ]
-      },
+      // {
+      //   link: 'faq',
+      //   title: 'Faq',
+      // },
+      // {
+      //   link: 'checkout',
+      //   title: 'Checkout',
+      // },
+      // {
+      //   link: 'cart',
+      //   title: 'Cart',
+      // },
+      // {
+      //   link: 'login-standard',
+      //   title: 'User pages',
+      //   new: true,
+      //   submenu: [
+      //     {
+      //       link: 'login-standard',
+      //       title: 'Login Standard',
+      //     },
+      //     {
+      //       link: 'login-minimal',
+      //       title: 'Login Minimal',
+      //     },
+      //     {
+      //       link: 'sign-up-standard',
+      //       title: 'Sign-Up Standard',
+      //     },
+      //     {
+      //       link: 'sign-up-minimal',
+      //       title: 'Sign-Up Minimal',
+      //     },
+      //   ]
+      // },
     ]
   },
   mega_elements:[
