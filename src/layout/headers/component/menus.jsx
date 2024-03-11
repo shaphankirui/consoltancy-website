@@ -12,7 +12,7 @@ const Menus = ({ btn, btn_style }) => {
     <ul className="navbar-nav">
       <li className="nav-item active dropdown">
         <Link href="/">
-          <a className="nav-link dropdown-toggle" data-bs-toggle="dropdown">Home.</a>
+          <a className="nav-link dropdown-toggle" href="/" data-bs-toggle="dropdown">Home.</a>
         </Link>
         <ul className="dropdown-menu mega-container">
           {/* home navs start */}
@@ -42,7 +42,7 @@ const Menus = ({ btn, btn_style }) => {
           ))}
         </ul>
       </li>
-      <li className="nav-item dropdown">
+      {/* <li className="nav-item dropdown">
         <a className="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">elements.</a>
         <ul className="dropdown-menu mega-container">
           <li>
@@ -56,7 +56,7 @@ const Menus = ({ btn, btn_style }) => {
             </div>
           </li>
         </ul>
-      </li>
+      </li> */}
 
       <li className="nav-item dropdown position-relative">
         <a className="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">{news.title}</a>
