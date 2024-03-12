@@ -1,56 +1,37 @@
 import Link from 'next/link';
+import React from 'react';
 import { useState } from 'react';
 import OffCanvas from '../../components/common/sidebar/off-canvas';
 import useSticky from '../../hooks/use-sticky';
-import Languages from './component/languages';
 import Menus from './component/menus';
 
 
-const Header = ({ error_standard = false }) => {
+const HeaderTwo = () => {
   const { headerSticky } = useSticky();
   const [isOpen,setIsOpen] = useState();
   return (
     <>
-      <div className={`theme-main-menu theme-menu-one ${headerSticky ? 'fixed' : ''}`}>
+      <div className={`theme-main-menu theme-menu-two ${headerSticky ? 'fixed' : ''}`}>
         <div className="logo">
           <Link href={'/'}>
-            <a><img src="/assets/images/logo/logo.svg" alt="logo" /></a>
+            <a>
+              <img src="/assets/images/logo/logo3.svg" alt="logo" />
+            </a>
           </Link>
         </div>
         <nav id="mega-menu-holder" className="navbar navbar-expand-lg">
-          <div className="container nav-container">
+          <div className="ms-auto nav-container">
             <button className="navbar-toggler navbar-toggler-right" onClick={()=> setIsOpen(true)}>
               <i className="flaticon-setup"></i>
             </button>
-            <div className="collapse navbar-collapse">
+            <div className="collapse navbar-collapse" id="navbarSupportedContent">
               {/* menus start */}
               <Menus />
               {/* menus end */}
             </div>
           </div>
         </nav>
-        {!error_standard && <div className="header-right-widget">
-          <ul>
-            <li className="call-us">Call Us <a href="#">+880.762.009</a></li>
-            <li className="language-switcher">
-              <div className="dropdown">
-                <button type="button" className="dropdown-toggle" data-bs-toggle="dropdown">
-                  En
-                </button>
-                <div className="dropdown-menu dropdown-menu-right">
-                  <Languages />
-                </div>
-              </div>
-            </li>
-            <li>
-              <Link href="/contact-us-standard">
-                <a className="contact-us white-shdw-button">Contact Us
-                  <i className="icon flaticon-next"></i>
-                </a>
-              </Link>
-            </li>
-          </ul>
-        </div>}
+        <a href="#" className="quote-button">Get a Quote</a>
       </div>
 
       {/* off canvas start */}
@@ -60,4 +41,4 @@ const Header = ({ error_standard = false }) => {
   );
 };
 
-export default Header;
+export default HeaderTwo;

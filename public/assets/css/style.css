@@ -907,7 +907,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .theme-menu-one.d-align-item.color-white .navbar-nav .nav-item .nav-link:before {background: #fff;}
 /*----------------------- Theme Main Menu Two  --------------------*/
-.theme-menu-two {padding-left: 90px;padding-right: 90px;}
+.theme-menu-two {padding-left: 90px;padding-right: 90px; background: rgb(5, 146, 64);}
 .theme-menu-two .logo {
   position: absolute;
   top:50px;
@@ -920,7 +920,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   width: 160px;
   line-height: 50px;
   border-radius: 3px;
-  background:#fff;
+  background:#05ce5f;
   font-size: 18px;
   color: #3d3d3d;
   text-align: center;
@@ -1016,7 +1016,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .theme-menu-one.fixed .header-right-widget {top:7px;}
 .theme-menu-two.fixed .logo {top:7px;}
 .theme-menu-two.fixed .quote-button {top:9px;}
-.theme-main-menu.theme-menu-two.fixed,.theme-menu-one.d-align-item.color-white.fixed {background: #1b1d3d;}
+.theme-main-menu.theme-menu-two.fixed,.theme-menu-one.d-align-item.color-white.fixed {background: #14723b;}
 .theme-main-menu.theme-menu-three.fixed {background: rgba(29,31,66,0.98); border-bottom: 1px solid rgba(255,255,255,0.03);}
 .theme-menu-three.fixed .header-right-widget {top:14px;}
 .theme-menu-one.d-align-item.fixed .navbar-nav .nav-item .nav-link {padding-bottom: 0;}
@@ -1135,7 +1135,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 /*---------------------------- Theme Main Banner Two -------------------------*/
 #theme-banner-two {
-  background: linear-gradient( -120deg, rgb(135,88,255) 0%, rgb(97,78,249) 100%);
+  background: linear-gradient( -120deg, rgb(63, 161, 107) 0%, rgb(4, 139, 45) 100%);
   position: relative;
   overflow:hidden;
 }
