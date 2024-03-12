@@ -34,7 +34,7 @@ const FooterStyleFour = () => {
               <h5 className="title">Company</h5>
               <ul>
                 <li>
-                  <Link href="/about-us-standard">
+                  <Link href="/about-us-agency">
                     <a>Press Releases</a>
                   </Link>
                 </li>

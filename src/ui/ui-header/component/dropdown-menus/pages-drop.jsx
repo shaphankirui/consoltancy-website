@@ -15,7 +15,7 @@ const PagesMenuDrop = () => {
               </Link>
             </li>
             <li>
-              <Link href="/about-us-standard">
+              <Link href="/about-us-agency">
                 <a className="dropdown-item">About Us standard</a>
               </Link>
             </li>

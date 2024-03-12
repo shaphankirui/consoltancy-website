@@ -33,7 +33,7 @@ const FooterFour = () => {
                   <h5 className="title font-k2d">About us</h5>
                   <ul>
                     <li>
-                      <Link href="/about-us-standard">
+                      <Link href="/about-us-agency">
                         <a>About us</a>
                       </Link>
                     </li>

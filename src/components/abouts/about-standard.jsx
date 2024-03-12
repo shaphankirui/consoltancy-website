@@ -3,7 +3,7 @@ import React from 'react';
 const AboutStandard = () => {
   return (
     <>
-      <div className="about-us-standard pt-150 pb-150">
+      <div className="about-us-agency pt-150 pb-150">
         <div className="container">
           <div className="top-icon-box">
             <div className="icon"><i className="flaticon-user"></i></div>

@@ -2,7 +2,7 @@ import React from 'react';
 
 const AboutAgency = () => {
   return (
-    <div className="about-us-standard agency-style pt-150">
+    <div className="about-us-agency agency-style pt-150">
       <div className="container">
         <div className="demo-container-1100">
           <div className="row gutter-80">

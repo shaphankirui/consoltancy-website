@@ -42,7 +42,7 @@ const Footer = ({ top_border }) => {
                 { link: '#', text: 'Content' }
               ]} />
               <Widget title="About us" lists={[
-                { link: '/about-us-standard', text: 'About us' }, { link: '/project-standard', text: 'Work Portfolio' },
+                { link: '/about-us-agency', text: 'About us' }, { link: '/project-standard', text: 'Work Portfolio' },
                 { link: '/team-standard', text: 'Team' }, { link: '#', text: 'Plan & Pricing' },
                 { link: '/blog-default', text: 'News' }
               ]} />

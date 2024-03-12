@@ -168,7 +168,7 @@ const menu_data = {
         //     title: 'About Us agency',
         //   },
         //   {
-        //     link: 'about-us-standard',
+        //     link: 'about-us-agency',
         //     title: 'About Us standard',
         //   },
         // ]

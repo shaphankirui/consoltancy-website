@@ -97,7 +97,7 @@
   .about-me-portfo .inner-content .profile-tab {padding-left: 140px;}
   .our-service-sass .service-block {padding-left: 25px;padding-right: 25px;}
   .apps-testimonial .customer-block {padding-left: 15px;padding-right: 15px;}
-  .about-us-standard.agency-style .row:nth-child(even) .img-box img {margin-top: -112px;}
+  .about-us-agency.agency-style .row:nth-child(even) .img-box img {margin-top: -112px;}
   .theme-title-three {padding: 0 100px;}
   .project-details .pd-banner {height: 720px;}
   .project-details-creative .pd-banner .project-title-one {width: 67%;}
@@ -230,8 +230,8 @@
   .cart-section .cart-footer .coupon-form {padding-bottom: 45px;}
   .checkout-form .order-confirm-sheet {padding: 50px 0 0;}
   .theme-title-three {padding: 0;margin-bottom: 50px;}
-  .about-us-standard .single-block {margin-top: 50px;}
-  .about-us-standard.agency-style .row:nth-child(even) .img-box img,.about-us-standard.agency-style .img-box img {margin: 40px auto 0;}
+  .about-us-agency .single-block {margin-top: 50px;}
+  .about-us-agency.agency-style .row:nth-child(even) .img-box img,.about-us-agency.agency-style .img-box img {margin: 40px auto 0;}
   .project-standard .isotop-menu-wrapper {padding-bottom: 50px;}
   .project-standard #isotop-gallery-wrapper {margin: 0 -15px;}
   .project-standard #isotop-gallery-wrapper .grid-sizer, .project-standard #isotop-gallery-wrapper .isotop-item {padding: 0 15px;margin-bottom: 40px;}
@@ -456,7 +456,7 @@
   .video-action-banner-one .overlay {padding: 130px 0;}
   .our-team .theme-title-one {padding-bottom: 80px;}
   .apps-testimonial.bg-white {padding-top: 80px;}
-  .about-us-standard .single-block p {padding-right: 0;}
+  .about-us-agency .single-block p {padding-right: 0;}
   .theme-counter-two .single-counter-box:nth-child(2) {
     border-top: 1px solid #e9e9e9;
     border-bottom: 1px solid #e9e9e9;
