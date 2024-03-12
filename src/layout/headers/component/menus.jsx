@@ -12,7 +12,7 @@ const Menus = ({ btn, btn_style }) => {
     <ul className="navbar-nav">
       <li className="nav-item active dropdown">
         <Link href="/">
-          <a className="nav-link dropdown-toggle" href="/" data-bs-toggle="dropdown">Home.</a>
+          <a className="nav-link dropdown-toggle" href="/" >Home.</a>
         </Link>
         <ul className="dropdown-menu mega-container">
           {/* home navs start */}
