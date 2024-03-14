@@ -20,14 +20,14 @@ const WhatWeDoTwo = () => {
       <div className="seo-what-we-do">
         <div className="container">
           <div className="theme-title-one title-underline text-center upper-bar">
-            <h2 className="main-title">Rogan is a Agency for Boost Up <br/>Your Web Traffic.</h2>
+            <h2 className="main-title">[Company Name] is a Agency for Boosting Up <br/>Your Business Growth.</h2>
           </div>
 
           <div className="row">
-            <SingleBlock icon="icon4.svg" title="Customer Experience" />
+            <SingleBlock icon="icon4.svg" title="Consultancy Solutions" />
             <SingleBlock active={true} delay="300" icon="icon5.svg" title="Marketing Goal" />
-            <SingleBlock delay="400" icon="icon6.svg" title="Analytic" />
-            <SingleBlock delay="500" icon="icon7.svg" title="Speed Optimization" />
+            <SingleBlock delay="400" icon="icon6.svg" title="Food Markets" />
+            <SingleBlock delay="500" icon="icon7.svg" title="Job Finding Assistance" />
           </div>
         </div>
       </div>

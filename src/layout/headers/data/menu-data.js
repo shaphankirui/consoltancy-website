@@ -59,7 +59,7 @@ const menu_data = {
     dropdown: [
       {
         link: 'project-full-width',
-        title: 'Project',
+        title: 'What We have Done.',
         submenu: [
           {
             link: 'project-full-width',
@@ -118,7 +118,7 @@ const menu_data = {
       },
       {
         link: 'service-creative',
-        title: 'Services',
+        title: 'Our Services',
         submenu: [
           {
             link: 'service-creative',
@@ -175,7 +175,21 @@ const menu_data = {
       },
       {
         link: 'team-business',
-        title: 'Team',
+        title: 'Our Patners',
+        // submenu: [
+        //   {
+        //     link: 'about-us-agency',
+        //     title: 'About Us agency',
+        //   },
+        //   {
+        //     link: 'about-us-agency',
+        //     title: 'About Us standard',
+        //   },
+        // ]
+      },
+      {
+        link: 'team-business',
+        title: 'Our Team',
         // submenu: [
         //   {
         //     link: 'team-business',
@@ -411,7 +425,7 @@ const menu_data = {
   // ],
   news:{
     link: '/blog-default',
-    title: 'News.',
+    title: 'News & Events',
     dropdown: [
       // {
       //   link: 'blog-default',
@@ -427,7 +441,7 @@ const menu_data = {
       // },
       {
         link: 'blog-masonry',
-        title: 'Upcoming Events',
+        title: 'Our Events',
       },
       // {
       //   link: 'blog-details',

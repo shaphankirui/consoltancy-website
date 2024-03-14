@@ -31,12 +31,12 @@ const SeoWorkProgress = () => {
         <div className="container">
 
           <SingleWorkList order="order-lg-2" order_2="order-lg-1" icon="icon12.svg" 
-          title="Research Your Internal Objectives." sm_text="Lorem ipsum dolor sit amet, munere animal at ius quo oratio verterem cu erat." lists={['Quo fastidii perpetua reprimique impetus utroque','Has at erat nominavi expetendis, id quod delicat quo sed lorem set impetus.']} shape="shape-3.svg" />
+          title="Consultancy Services." sm_text="Gain a competitive edge and chart a course for success with our strategic consulting services." lists={['Strategic Consulting','Financial Advisory, Technology Solutions.']} shape="shape-3.svg" />
 
-          <SingleWorkList icon="icon13.svg" title="Keyword Research & Link Building." lists={['Quo fastidii perpetua reprimique impetus utroque','Has at erat nominavi expetendis, id quod delicat quo sed lorem set impetus.']} shape="shape-4.svg" />
+          <SingleWorkList icon="icon13.svg" title="Food Markets Services." lists={['Global Ingredient Sourcing','Market Trends Analysis, Brand Development and Marketing.']} shape="shape-4.svg" />
 
           <SingleWorkList order="order-lg-2" order_2="order-lg-1" icon="icon14.svg" 
-          title="Work Tracking & Reporting." lists={['Working Capital Loans – Loan proceeds used to cover cash flow gaps in working capital','Invoice Factoring – Provide cash flow between delivery of medical services and insurance payments']} shape="shape-5.svg" />
+          title="Job Finding Services." lists={[' Personalized Career Coaching','Recruitment and Talent Acquisition']} shape="shape-5.svg" />
 
         </div>
       </div>

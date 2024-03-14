@@ -3,8 +3,8 @@ import React from 'react';
 
 const contents = {
   img: '/assets/images/shape/banner-shape4.svg',
-  title: <>Boostup your <br />web traffic is just <br />a click away.</>,
-  subtitle: <>The 3 golden rules professional graphic designer don’t <br /> want you to know about.</>,
+  title: <>Boostup your <br />Business Growth in <br />Just One Click.</>,
+  subtitle: <>Welcome to [Company Name], <br />Where Expertise Meets Opportunity!</>,
 }
 const { img, subtitle, title } = contents;
 
