@@ -7,7 +7,7 @@ const index = () => {
   return (
     <div className="main-page-wrapper">
       <Header />
-      <Breadcrumb title="Project Gallery" white_bg={true} />
+      <Breadcrumb title="Our Consoltancy Work" white_bg={true} />
       <ProjectMsFullWidthArea/>
       <Footer />
     </div>

@@ -63,7 +63,7 @@ const menu_data = {
         submenu: [
           {
             link: 'project-full-width',
-            title: 'Project Full width',
+            title: 'Market we found',
           },
           // {
           //   link: 'project-minimal',
@@ -76,7 +76,7 @@ const menu_data = {
           // },
           {
             link: 'project-ms-full-width',
-            title: 'Project masonry',
+            title: 'Consoltancy Work',
           },
           // {
           //   link: 'project-ms-grid',
@@ -84,7 +84,7 @@ const menu_data = {
           // },
           {
             link: 'project-standard',
-            title: 'Project Standard',
+            title: 'Jobs Created',
           },
           // {
           //   link: 'project-with-sidebar',
@@ -122,7 +122,7 @@ const menu_data = {
         submenu: [
           {
             link: 'service-creative',
-            title: 'Service creative',
+            title: 'Consoltancy',
           },
           // {
           //   link: 'service-minimal',
@@ -130,11 +130,11 @@ const menu_data = {
           // },
           {
             link: 'service-modern',
-            title: 'Service modern',
+            title: 'Food Market',
           },
           {
             link: 'service-standard',
-            title: 'Service standard',
+            title: 'Jobs Creations',
           },
         ]
       },
