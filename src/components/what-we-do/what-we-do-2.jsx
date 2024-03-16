@@ -20,7 +20,7 @@ const WhatWeDoTwo = () => {
       <div className="seo-what-we-do">
         <div className="container">
           <div className="theme-title-one title-underline text-center upper-bar">
-            <h2 className="main-title">[Company Name] is a Agency for Boosting Up <br/>Your Business Growth.</h2>
+            <h2 className="main-title">AgTech Solutions is a Agency for Boosting Up <br/>Your Business Growth.</h2>
           </div>
 
           <div className="row">
