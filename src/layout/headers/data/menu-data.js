@@ -58,6 +58,29 @@ const menu_data = {
     title: 'What We Do?.',
     dropdown: [
       {
+        link: 'service-creative',
+        title: 'Our Services',
+        submenu: [
+          {
+            link: 'service-creative',
+            title: 'Consoltancy',
+          },
+          // {
+          //   link: 'service-minimal',
+          //   title: 'Service minimal',
+          // },
+          {
+            link: 'service-modern',
+            title: 'Food Market',
+          },
+          {
+            link: 'service-standard',
+            title: 'Jobs Creations',
+          },
+        ]
+      },
+      {
+        
         link: 'project-full-width',
         title: 'What We have Done.',
         submenu: [
@@ -116,28 +139,7 @@ const menu_data = {
           // },
         ]
       },
-      {
-        link: 'service-creative',
-        title: 'Our Services',
-        submenu: [
-          {
-            link: 'service-creative',
-            title: 'Consoltancy',
-          },
-          // {
-          //   link: 'service-minimal',
-          //   title: 'Service minimal',
-          // },
-          {
-            link: 'service-modern',
-            title: 'Food Market',
-          },
-          {
-            link: 'service-standard',
-            title: 'Jobs Creations',
-          },
-        ]
-      },
+      
       
       // {
       //   link: '404',

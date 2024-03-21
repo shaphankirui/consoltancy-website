@@ -25,18 +25,18 @@ const ModernService = () => {
       <div className="our-service service-modren pt-150 pb-200">
         <div className="container">
           <div className="theme-title-three text-center mb-200">
-            <h2 className="title">We’v been providing our services with proud since 1980.</h2>
-            <p>consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</p>
+            <h2 className="title">Get Yourself a market For your Food Products!.</h2>
+            <p>We provide comprehensive market support services, the goal is to help farmers access lucrative markets, increase their competitiveness, and maximize the value of their agricultural products, ultimately leading to improved farm incomes and sustainability.</p>
           </div>
 
-          <ServiceBlock order={true} fade="left" fade_2="right" color="one" tag="Mobile App"
-            title="Mobile Application Design & Dev." img="9" />
-          <ServiceBlock order={false} fade="right" fade_2="left" color="two" tag="UI/UX"
-            title="Interface Design with UX." img="10" />
-          <ServiceBlock order={true} fade="left" fade_2="right" color="three" tag="Wordpress"
-            title="WordPress Theme Development" img="11" />
-          <ServiceBlock order={false} fade="right" fade_2="left" color="four" tag="Marketing"
-            title="Social & Online Marketing." img="12" />
+          <ServiceBlock order={true} fade="left" fade_2="right" color="one" tag="Market Analysis & Product Promotion"
+            title="Conducting research to identify buyers and developing marketing strategies to promote farmers' products effectively." img="9" />
+          <ServiceBlock order={false} fade="right" fade_2="left" color="two" tag="Market Access & Market Intelligence"
+            title="Establishing partnerships while providing intelligence to assist farmers in meeting requirements and making informed decisions." img="10" />
+          <ServiceBlock order={true} fade="left" fade_2="right" color="three" tag="Value-Added Opportunities & Logistics"
+            title="Exploring value-added options while optimizing logistics to increase product value and ensure efficient distribution." img="11" />
+          {/* <ServiceBlock order={false} fade="right" fade_2="left" color="four" tag="Marketing"
+            title="Social & Online Marketing." img="12" /> */}
 
         </div>
       </div>

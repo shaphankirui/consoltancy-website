@@ -10,10 +10,10 @@ const index = () => {
   return (
     <div className="main-page-wrapper">
       <Header />
-      <Breadcrumb title="Our Services" subtitle="Service" />
+      <Breadcrumb title="Jop Opportunities" subtitle="Jop Opportunitiesrvice" />
       <StandService/>
       <TestimonialOne/>
-      <ContactBannerTwo/>
+      {/* <ContactBannerTwo/> */}
       <Footer />
     </div>
   );

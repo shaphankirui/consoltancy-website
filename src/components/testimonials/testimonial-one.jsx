@@ -15,15 +15,15 @@ const contents = {
   ],
   testi_items: [
     {
-      desc: 'Having a home based business is a wonderful asset to your life. The problem still stands, when it comes timeadvertise your business for a cheap cost. I know you have looked for to answer everywhere; I am here to share a few simple creative ways,',
+      desc: 'I cannot thank AgSmart enough for helping me find my dream job! Their personalized approach and attention to detail truly made all the difference. From revamping my resume to providing valuable interview tips, they were with me every step of the way. Thanks to their support, I landed a position that perfectly aligns with my skills and career aspirations. I highly recommend [Service Name] to anyone looking to kickstart their career journey!',
       img: '/assets/images/home/2.jpg',
-      name: 'Salim rana',
-      title: 'Developer'
+      name: 'Gilber  Ratemo',
+      title: 'Extension Officer'
     },
     {
-      desc: 'Having a home based business is a wonderful asset to your life. The problem still stands, when it comes timeadvertise your business for a cheap cost. I know you have looked for to answer everywhere; I am here to share a few simple creative ways,',
+      desc: 'I had been struggling to find employment for months until I discovered AgSmart. Their job matching algorithm matched me with several suitable job opportunities that I had not even considered before. With their guidance, I refined my resume and aced my interviews. Thanks to [Service Name], I landed a job that not only matches my qualifications but also offers room for growth and advancement. I am incredibly grateful for their support and highly recommend their services to anyone searching for their next career move!',
       img: '/assets/images/home/3.jpg',
-      name: 'Naim uddin',
+      name: 'shaphan Kirui',
       title: 'Developer'
     },
   ]

@@ -5975,7 +5975,7 @@ font-weight:600;}
 .solid-inner-banner {
   background: #fafcff;
   text-align: center;
-  padding: 265px 0 0;
+  padding: 165px 0 0;
 }
 .solid-inner-banner.white-bg {background: #fff;}
 .solid-inner-banner .page-title {
@@ -5983,7 +5983,7 @@ font-weight:600;}
   font-weight:600;
   font-size: 58px;
   color: #313131;
-  padding-bottom: 150px;
+  padding-bottom: 30px;
 }
 .solid-inner-banner .page-breadcrumbs {
   background: #fff;
