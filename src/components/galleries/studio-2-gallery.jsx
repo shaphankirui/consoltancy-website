@@ -49,7 +49,7 @@ const StudioTwoGallery = () => {
               <div className="text-block scree-lg">
                 <h3 className="font-k2d">We have done more than 150+ project with well know company & still counting</h3>
                 <p>But you can still ask me if you’d like to see more <br />projects I have done in past.</p>
-                <Link href="/project-standard">
+                <Link href="/our-jobs">
                   <a className="white-shdw-button">Check our all work <i className="icon flaticon-next"></i></a>
                 </Link>
               </div>
@@ -64,7 +64,7 @@ const StudioTwoGallery = () => {
           <div className="text-block scree-mobile">
             <h3 className="font-k2d">We have done more than 150+ project with well know company & still counting</h3>
             <p>But you can still ask me if you’d like to see more <br />projects I have done in past.</p>
-            <Link href="/project-standard">
+            <Link href="/our-jobs">
               <a className="white-shdw-button">Check our all work <i className="icon flaticon-next"></i></a>
             </Link>
           </div>

@@ -32,7 +32,7 @@ const FooterFive = () => {
               <div className="row">
                 <FooterWidget title="Services" lists={[{ link: '#', title: 'Web Design' }, { link: '#', title: 'Development' }, { link: '#', title: 'Wordpress' }, { link: '#', title: 'Online Marketing' }, { link: '#', title: 'Content' }]} />
                 <FooterWidget title="About us" lists={[{ link: '/about-us-agency', title: 'About us' },
-                { link: '/project-standard', title: 'Work Portfolio' }, { link: '/team-standard', title: 'Team' },
+                { link: '/our-jobs', title: 'Work Portfolio' }, { link: '/team-standard', title: 'Team' },
                 { link: '#', title: 'Plan & Pricing' }, { link: '/blog-default', title: 'News' }]} />
                 <div className="col-md-4 col-sm-6 col-12">
                   <h5 className="title">Address</h5>

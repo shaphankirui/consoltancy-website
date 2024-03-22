@@ -68,7 +68,7 @@ const ProjectPortfolio = () => {
           <div className="container">
             <p>{sm_text}</p>
           </div>
-          <Link href="/project-full-width">
+          <Link href="/our-markets">
             <a className="gallery-button" data-aos="fade-left" data-aos-duration="2000">View Gallery</a>
           </Link>
         </div>

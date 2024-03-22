@@ -58,34 +58,34 @@ const menu_data = {
     title: 'What We Do?.',
     dropdown: [
       {
-        link: 'service-creative',
+        link: 'consultancy',
         title: 'Our Services',
         submenu: [
           {
-            link: 'service-creative',
-            title: 'Consoltancy',
+            link: 'consultancy',
+            title: 'Consultancy',
           },
           // {
           //   link: 'service-minimal',
           //   title: 'Service minimal',
           // },
           {
-            link: 'service-modern',
+            link: 'food-market',
             title: 'Food Market',
           },
           {
-            link: 'service-standard',
+            link: 'Job-creation',
             title: 'Jobs Creations',
           },
         ]
       },
       {
         
-        link: 'project-full-width',
+        link: 'our-markets',
         title: 'What We have Done.',
         submenu: [
           {
-            link: 'project-full-width',
+            link: 'our-markets',
             title: 'Market we found',
           },
           // {
@@ -98,15 +98,15 @@ const menu_data = {
           //   new: true,
           // },
           {
-            link: 'project-ms-full-width',
-            title: 'Consoltancy Work',
+            link: 'our-consultancy',
+            title: 'Consultancy Work',
           },
           // {
           //   link: 'project-ms-grid',
           //   title: 'Project masonry grid',
           // },
           {
-            link: 'project-standard',
+            link: 'our-jobs',
             title: 'Jobs Created',
           },
           // {

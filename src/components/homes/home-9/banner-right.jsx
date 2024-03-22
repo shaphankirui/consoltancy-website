@@ -26,7 +26,7 @@ const BannerRight = ({setIsSidebarOpen}) => {
               <input type="email" placeholder="Email Address*" />
               <textarea placeholder="Message*"></textarea>
             </div>
-            <button>Get A Quote</button>
+            <button>Get</button>
           </form>
         </div>
       </div>

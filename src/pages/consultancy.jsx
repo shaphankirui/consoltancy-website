@@ -5,7 +5,7 @@ import ServiceCreativeMain from '../components/service-page-com/service-creative
 export default function index() {
   return (
     <Wrapper>
-      <SEO pageTitle={'Service Creative'} />
+      <SEO pageTitle={'consultancy'} />
       <ServiceCreativeMain/>
     </Wrapper>
   )

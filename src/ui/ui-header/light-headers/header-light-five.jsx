@@ -26,7 +26,7 @@ const HeaderLightFive = ({ dark }) => {
                   <li><a href="#"><i className="fa fa-facebook" aria-hidden="true"></i></a></li>
                 </ul>
               </li>
-              <li><a href="#" className="theme-button-two">Get a quote</a></li>
+              <li><a href="contact-us-agency" className="theme-button-two">Contact us</a></li>
             </ul>
           </div>
         </div>

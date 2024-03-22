@@ -55,7 +55,7 @@ const PagesMenuDrop = () => {
           <a className="dropdown-item dropdown-toggle" href="#" data-bs-toggle="dropdown">Services</a>
           <ul className="dropdown-menu">
             <li>
-              <Link href="/service-creative">
+              <Link href="/consultancy">
                 <a className="dropdown-item">Service creative</a>
               </Link>
             </li>
@@ -65,13 +65,13 @@ const PagesMenuDrop = () => {
               </Link>
             </li>
             <li>
-              <Link href="/service-modern">
-                <a className="dropdown-item">service modern</a>
+              <Link href="/food-market">
+                <a className="dropdown-item">Food Market</a>
               </Link>
             </li>
             <li>
-              <Link href="/service-standard">
-                <a className="dropdown-item">service Standard</a>
+              <Link href="/Job-creation">
+                <a className="dropdown-item">Job Creation</a>
               </Link>
             </li>
           </ul>

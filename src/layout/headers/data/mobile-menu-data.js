@@ -23,7 +23,7 @@ const mobile_menus = [
     title:'About Us',
     link:'/about-us-agency',
     sub_menus:[
-      {link: 'about-us-agency',title: 'About Us agency'},
+      {link: 'about-us-agency',title: 'About Us'},
       {link: 'team-business',title: 'Our Team'},
       {link: 'contact-us-agency',title: 'Contact Us'},
     ]
@@ -31,14 +31,14 @@ const mobile_menus = [
   {
     id:3,
     has_dropdown:true,
-    title:'Project',
-    link:'/project-full-width',
+    title:'What We Have Done',
+    link:'/our-markets',
     sub_menus:[
-      {link: 'project-full-width',title: 'Project Full width'},
+      {link: 'our-markets',title: 'Market we found'},
       // {link: 'project-minimal',title: 'Project minimal',},
-      {link: 'project-ms-full-width',title: 'Project masonry'},
+      {link: 'our-consultancy',title: 'Consultancy Work'},
       // {link: 'project-ms-grid',title: 'Project masonry grid'},
-      {link: 'project-standard',title: 'Project Standard'},
+      {link: 'our-jobs',title: 'Jobs Created'},
       // {link: 'project-with-sidebar',title: 'project with sidebar'},
     ]
   },
@@ -57,13 +57,13 @@ const mobile_menus = [
   {
     id:5,
     has_dropdown:true,
-    title:'Services',
-    link:'/service-creative',
+    title:'What We Do',
+    link:'/consultancy',
     sub_menus:[
-      {link: 'service-creative',title: 'Service creative'},
+      {link: 'consultancy',title: 'Consultancy'},
       // {link: 'service-minimal',title: 'Service minimal'},
-      {link: 'service-modern',title: 'Service modern'},
-      {link: 'service-standard',title: 'Service standard'},
+      {link: 'food-market',title: 'Food-Market'},
+      {link: 'Job-creation',title: 'Job-Creation'},
     ]
   },
   // {

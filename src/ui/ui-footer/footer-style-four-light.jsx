@@ -30,7 +30,7 @@ const FooterStyleFourLight = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link href="/project-standard">
+                  <Link href="/our-jobs">
                     <a>Mission</a>
                   </Link>
                 </li>

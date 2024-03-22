@@ -72,7 +72,7 @@ const ArchProjectGallery = () => {
                 </li>
               ))}
             </ul>
-            <Link href="/project-standard">
+            <Link href="/our-jobs">
               <a className="line-button-three">View Gallery</a>
             </Link>
           </div>

@@ -43,7 +43,7 @@ const GalleryOne = () => {
           </div>
         </div>
         <div className="main-wrapper">
-          <Link href="/project-full-width">
+          <Link href="/our-markets">
             <a className="view-gallery">View Gallery</a>
           </Link>
           <Swiper
