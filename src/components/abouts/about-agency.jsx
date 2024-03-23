@@ -9,7 +9,7 @@ const AboutAgency = () => {
             <div className="col-lg-6 order-lg-last" data-aos="fade-left">
               <div className="single-block">
                 <h5 className="block-title pb-30">About Us</h5>
-                <p>At AgSmart Solutions, we are dedicated to revolutionizing the way farmers interact with the agricultural industry. Our platform offers a comprehensive suite of services tailored to meet the diverse needs of farmers worldwide. Whether you're seeking expert consultancy, searching for new markets to expand your business, or looking for rewarding job opportunities in the agricultural sector, we've got you covered.</p>
+                <p>At AgSmart Solutions, we are dedicated to revolutionizing the way farmers interact with the agricultural industry. Our platform offers a comprehensive suite of services tailored to meet the diverse needs of farmers worldwide. Whether you are seeking expert consultancy, searching for new markets to expand your business, or looking for rewarding job opportunities in the agricultural sector, we have got you covered.</p>
                 <div className="author-data">
                   <h6 className="name pb-30">Derek Ramsey</h6>
                   <img src="/assets/images/home/sign2.png" alt="" />
