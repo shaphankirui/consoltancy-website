@@ -30,7 +30,7 @@ const BannerTwo = () => {
               </Link>
             </li>
             <li>
-              <Link href="/contact-us-minimal">
+              <Link href="/contact">
                 <a className="contact-button wow fadeInRight animated" data-wow-delay="1.5s">Contact Us</a>
               </Link>
             </li>
