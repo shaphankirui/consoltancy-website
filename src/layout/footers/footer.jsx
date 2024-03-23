@@ -42,8 +42,8 @@ const Footer = ({ top_border }) => {
                 { link: '#', text: 'Content' }
               ]} />
               <Widget title="About us" lists={[
-                { link: '/about-us-agency', text: 'About us' }, { link: '/project-standard', text: 'Work Portfolio' },
-                { link: '/team-standard', text: 'Team' }, { link: '#', text: 'Plan & Pricing' },
+                { link: '/about-us', text: 'About us' }, { link: '/project-standard', text: 'Work Portfolio' },
+                { link: '/our-team', text: 'Team' }, { link: '#', text: 'Plan & Pricing' },
                 { link: '/blog-default', text: 'News' }
               ]} />
               <div className="col-lg-3 col-lg-2 col-sm-6 col-12 footer-information">

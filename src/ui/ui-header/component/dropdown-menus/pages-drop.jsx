@@ -10,12 +10,12 @@ const PagesMenuDrop = () => {
           <a className="dropdown-item dropdown-toggle" href="#" data-bs-toggle="dropdown">About Us</a>
           <ul className="dropdown-menu">
             <li>
-              <Link href="/about-us-agency">
+              <Link href="/about-us">
                 <a className="dropdown-item">About Us agency</a>
               </Link>
             </li>
             <li>
-              <Link href="/about-us-agency">
+              <Link href="/about-us">
                 <a className="dropdown-item">About Us standard</a>
               </Link>
             </li>

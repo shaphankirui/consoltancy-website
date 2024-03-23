@@ -25,7 +25,7 @@ const BannerTwo = () => {
           <p className="sub-title wow fadeInUp animated" data-wow-delay="0.9s">{subtitle}</p>
           <ul className="button-group">
             <li>
-              <Link href="/about-us-agency">
+              <Link href="/about-us">
                 <a className="more-button wow fadeInLeft animated" data-wow-delay="1.5s">Learn More <i className="fa fa-angle-right" aria-hidden="true"></i></a>
               </Link>
             </li>

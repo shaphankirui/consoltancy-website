@@ -33,7 +33,7 @@ const FooterFour = () => {
                   <h5 className="title font-k2d">About us</h5>
                   <ul>
                     <li>
-                      <Link href="/about-us-agency">
+                      <Link href="/about-us">
                         <a>About us</a>
                       </Link>
                     </li>
@@ -43,7 +43,7 @@ const FooterFour = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link href="/team-standard">
+                      <Link href="/our-team">
                         <a>Team</a>
                       </Link>
                     </li>

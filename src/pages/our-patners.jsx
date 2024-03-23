@@ -1,12 +1,12 @@
 import SEO from "../components/seo";
 import { Wrapper } from "../layout";
-import BlogFilterMain from '../components/blog-page-com/blog-filter';
+import TeamBusinessMain from '../components/team-page-com/team-business';
 
 export default function index() {
   return (
     <Wrapper>
-      <SEO pageTitle={'Blog Filter'} />
-      <BlogFilterMain/>
+      <SEO pageTitle={'Our Patners'} />
+      <TeamBusinessMain/>
     </Wrapper>
   )
 }

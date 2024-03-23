@@ -25,7 +25,7 @@ const FooterStyleFourLight = () => {
               <h5 className="title">Company</h5>
               <ul>
                 <li>
-                  <Link href="/about-us-agency">
+                  <Link href="/about-us">
                     <a>Press Releases</a>
                   </Link>
                 </li>
@@ -35,7 +35,7 @@ const FooterStyleFourLight = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link href="/team-standard">
+                  <Link href="/our-team">
                     <a>Strategy</a>
                   </Link>
                 </li>

@@ -41,7 +41,7 @@ const HeaderLightOne = ({ dark = false }) => {
               </div>
             </div>
           </li>
-          <li><a href="contact-us-agency" className="theme-button-two">Contact Us</a></li>
+          <li><a href="contact" className="theme-button-two">Contact Us</a></li>
         </ul>
       </div>
 

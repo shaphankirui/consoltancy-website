@@ -54,7 +54,7 @@ const menu_data = {
     // },
   ],
   pages: {
-    link: '/about-us-agency',
+    link: '/about-us',
     title: 'What We Do?.',
     dropdown: [
       {
@@ -162,7 +162,7 @@ const menu_data = {
     title: 'About Us?.',
     dropdown: [
       {
-        link: 'about-us-agency',
+        link: 'about-us',
         title: 'About Us',
         // submenu: [
         //   {
@@ -176,7 +176,7 @@ const menu_data = {
         // ]
       },
       {
-        link: 'team-business',
+        link: 'our-patners',
         title: 'Our Patners',
         // submenu: [
         //   {
@@ -190,7 +190,7 @@ const menu_data = {
         // ]
       },
       {
-        link: 'team-business',
+        link: 'our-team',
         title: 'Our Team',
         // submenu: [
         //   {
@@ -208,7 +208,7 @@ const menu_data = {
         // ]
       },
       {
-        link: 'contact-us-agency',
+        link: 'contact',
         title: 'Contact Us',
         // submenu: [
         //   {
@@ -434,7 +434,7 @@ const menu_data = {
       //   title: 'Blog default',
       // },
       {
-        link: 'blog-filter',
+        link: 'blogs',
         title: 'Our Blogs',
       },
       // {
@@ -442,7 +442,7 @@ const menu_data = {
       //   title: 'Blog Full Grid',
       // },
       {
-        link: 'blog-masonry',
+        link: 'events',
         title: 'Our Events',
       },
       // {

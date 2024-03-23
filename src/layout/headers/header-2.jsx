@@ -31,7 +31,7 @@ const HeaderTwo = () => {
             </div>
           </div>
         </nav>
-        <a href="contact-us-agency" className="quote-button">Contact us</a>
+        <a href="contact" className="quote-button">Contact us</a>
       </div>
 
       {/* off canvas start */}

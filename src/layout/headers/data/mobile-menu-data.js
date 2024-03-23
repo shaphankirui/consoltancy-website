@@ -21,11 +21,12 @@ const mobile_menus = [
     id:2,
     has_dropdown:true,
     title:'About Us',
-    link:'/about-us-agency',
+    link:'/about-us',
     sub_menus:[
-      {link: 'about-us-agency',title: 'About Us'},
-      {link: 'team-business',title: 'Our Team'},
-      {link: 'contact-us-agency',title: 'Contact Us'},
+      {link: 'about-us',title: 'About Us'},
+      {link: 'our-patners',title: 'Our Patners'},
+      {link: 'team-standard',title: 'Our Team'},
+      {link: 'contact',title: 'Contact Us'},
     ]
   },
   {
@@ -156,12 +157,12 @@ const mobile_menus = [
     id:12,
     has_dropdown:true,
     title:'News',
-    link:'/blog-filter',
+    link:'/blogs',
     sub_menus:[
       // {link: 'blog-default',title: 'Blog default'},
-      {link: 'blog-filter',title: 'Blog filter'},
+      {link: 'blogs',title: 'Our Blogs'},
       // {link: 'blog-full-grid',title: 'Blog Full Grid'},
-      {link: 'blog-masonry',title: 'Up comming Events'},
+      {link: 'events',title: 'Our Events'},
       // {link: 'blog-details',title: 'Blog details'},
       // {link: 'blog-details-full-grid',title: 'blog details full grid'},
     ]

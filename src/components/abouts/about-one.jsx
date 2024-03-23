@@ -42,7 +42,7 @@ const AboutArea = () => {
 					</div>
 				</div>
 			</div>
-			<Link href="/about-us-agency">
+			<Link href="/about-us">
 				<a className="learn-more theme-button-two" data-aos="fade-left">{btn_text} <i className="fa fa-angle-right icon-right" aria-hidden="true"></i></a>
 			</Link>
 		</div>

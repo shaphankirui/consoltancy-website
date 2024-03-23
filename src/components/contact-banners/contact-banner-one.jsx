@@ -6,7 +6,7 @@ const ContactBannerOne = () => {
     <div className="agn-contact-banner">
       <div className="container">
         <h2 className="title">Do you have any Food products that you want us to find you a market? <br />Contact us.</h2>
-        <Link href="/contact-us-agency">
+        <Link href="/contact">
           <a className="contact-button line-button-one">Contact Us</a>
         </Link>
       </div>

@@ -9,7 +9,7 @@ const SeoContactBanner = () => {
       <div className="d-shape">D</div>
       <div className="container">
         <h2 className="title">Do you have any projects? <br />Contact us.</h2>
-        <Link href="/contact-us-agency">
+        <Link href="/contact">
           <a className="contact-button">Contact Us</a>
         </Link>
       </div>

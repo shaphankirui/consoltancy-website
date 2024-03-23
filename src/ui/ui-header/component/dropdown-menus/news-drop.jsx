@@ -12,7 +12,7 @@ const NewsMenuDrop = () => {
           </Link>
         </li>
         <li>
-          <Link href="/blog-filter">
+          <Link href="/blogs">
             <a className="dropdown-item">Blog filter</a>
           </Link>
         </li>
