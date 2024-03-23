@@ -3,13 +3,13 @@ import React from 'react';
 const contents = {
   upper_title:'Marketing Gaol',
   main_title:'Best Market Research Tool for You.',
-  sm_text:'Lorem ipsum dolor sit amet, hendrerit omittantur melu est ut vidit animal iracundia luis.',
+  sm_text:'Selecting the ideal market research tool is pivotal for optimizing agricultural food product marketing strategies, ensuring informed decision-making, and staying ahead in a competitive market landscape.',
   lists:[
-    'Lorem ipsum essent alien eam hendrerit mel anil.',
-    'Lorem ipsum essent alien eam hendrerit mel es vidit lus anil.',
-    'Hendrerit mel es vidit lus anil nibh due.',
+    'In-depth Agricultural Data Analysis',
+    'Tailored Features for Agriculture.',
+    'Intuitive Interface for Farmers and Marketers.',
   ],
-  btn_text:'Request Free Consultation'
+  btn_text:'Request  Consultation'
 }
 const {upper_title,main_title,btn_text,lists,sm_text} = contents;
 
@@ -29,7 +29,7 @@ const SeoGoal = () => {
                 <ul className="list-item">
                   {lists.map((l,i) => <li key={i}>{l}</li>)}
                 </ul>
-                <a href="#" className="request-button">{btn_text} 
+                <a href="contact" className="request-button">{btn_text} 
                 <i className="fa fa-angle-right" aria-hidden="true"></i></a>
               </div>
             </div>

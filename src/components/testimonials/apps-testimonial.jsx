@@ -7,28 +7,28 @@ const contents = {
   main_title: <>What’s Our Customer <br />Saying.</>,
   testimonial_data: [
     {
-      desc: 'onsectetur adipiscng elit, sed do esmod tempor ut labor  dolor magna aliqua. Ut enomi ad minm veniam, quis nos exercitation.',
+      desc: 'I recently graduated with a degree in agriculture and was unsure of where to start my career. Thankfully, I discovered AgSmart solutions and their job finding services. They helped me navigate the job market and connected me with a fantastic opportunity at a leading agricultural company. I am excited to begin this new chapter in my career, and I could not have done it without their assistance. Highly recommended!',
       img: '/assets/images/home/3.jpg',
-      name: 'Naim uddin',
-      title: 'Developer, ThemePure',
+      name: 'David Mutai',
+      title: 'Recent Agriculture Graduate, Kericho',
     },
     {
-      desc: 'onsectetur adipiscng elit, sed do esmod tempor ut labor  dolor magna aliqua. Ut enomi ad minm veniam, quis nos exercitation.',
+      desc: 'I have been in the agriculture industry for over two decades, and I thought I knew everything there was to know. However, AgSmart solutions proved me wrong. Their consultancy services not only refreshed my existing knowledge but also introduced me to innovative practices that have transformed my farm. Thanks to their guidance, I have increased efficiency, reduced costs, and boosted productivity.',
       img: '/assets/images/home/2.jpg',
-      name: 'Salim rana',
-      title: 'Founder, ThemePure',
+      name: 'Njeri Maina',
+      title: 'Experienced Farmer, Nyeri',
     },
     {
-      desc: 'onsectetur adipiscng elit, sed do esmod tempor ut labor  dolor magna aliqua. Ut enomi ad minm veniam, quis nos exercitation.',
+      desc: 'I cannot recommend AgSmart solutions enough! Their consultancy services have been invaluable to my farming operation. With their expert advice and personalized recommendations, I have been able to implement new techniques that have significantly improved my crop yields. Thank you for helping me take my farm to the next level!',
       img: '/assets/images/home/7.jpg',
-      name: 'John smith',
-      title: 'Developer, Walton',
+      name: 'Willy Okonyene',
+      title: 'Farmer, Busia',
     },
     {
-      desc: 'onsectetur adipiscng elit, sed do esmod tempor ut labor  dolor magna aliqua. Ut enomi ad minm veniam, quis nos exercitation.',
+      desc: 'As a small-scale farmer, finding markets for my produce has always been a challenge. That is why I turned to AgSmart solutions for help. Their market finding service connected me with buyers who appreciate the quality of my products, allowing me to expand my customer base and increase my profits. I am grateful for the support and guidance they heve provided along the way!',
       img: '/assets/images/home/2.jpg',
-      name: 'Salim rana',
-      title: 'Founder, ThemePure',
+      name: 'Maria Marwa',
+      title: 'Small-scale Farmer, Nyahururu',
     },
   ]
 }

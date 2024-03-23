@@ -15,7 +15,7 @@ const index = () => {
       <Breadcrumb title="About us" subtitle="About us." />
       <AboutAgency />
       <AgnCounter />
-      <AboutAgnVideoBanner />
+      {/* <AboutAgnVideoBanner /> */}
       <TeamClassic />
       <AppsTestimonial about_agn={true} />
       <ContactBannerOne />

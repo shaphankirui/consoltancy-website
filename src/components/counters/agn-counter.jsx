@@ -2,9 +2,9 @@ import React from 'react';
 import SingleCounter from './single-counter';
 
 const counter_data = [
-  { count: 16, text: 'k', title: 'Global Customer' },
+  { count: 2, text: 'k', title: 'Global Customer' },
   { count: 500, text: '+', title: 'Completed Projects' },
-  { count: 460, text: '+', title: 'Experts Worker' },
+  { count: 60, text: '+', title: 'Workers' },
 ]
 
 const AgnCounter = () => {

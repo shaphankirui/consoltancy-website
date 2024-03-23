@@ -20,7 +20,7 @@ const service_data = [
     id:3,
     icon:'/assets/images/icon/icon10.svg',
     title:'We help you in building your business',
-    desc:'Copy write, blogging, public relationship and si the content translations. Producing long lasting of organic SEO results for brand.',
+    desc:'Ready to take your farming journey to the next level,we will help do That.',
     delay:'400',
     home_2:true,
   },

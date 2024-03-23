@@ -8,8 +8,8 @@ const AboutAgency = () => {
           <div className="row gutter-80">
             <div className="col-lg-6 order-lg-last" data-aos="fade-left">
               <div className="single-block">
-                <h5 className="block-title pb-30">Our History</h5>
-                <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out printed graphic or web designs. The passage is at attributed to an unknown typesetters in 1the 5th century who is thought scrambled with all parts of Cicero De. Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out printed graphic or web designs.</p>
+                <h5 className="block-title pb-30">About Us</h5>
+                <p>At AgSmart Solutions, we are dedicated to revolutionizing the way farmers interact with the agricultural industry. Our platform offers a comprehensive suite of services tailored to meet the diverse needs of farmers worldwide. Whether you're seeking expert consultancy, searching for new markets to expand your business, or looking for rewarding job opportunities in the agricultural sector, we've got you covered.</p>
                 <div className="author-data">
                   <h6 className="name pb-30">Derek Ramsey</h6>
                   <img src="/assets/images/home/sign2.png" alt="" />
@@ -23,9 +23,9 @@ const AboutAgency = () => {
           <div className="row gutter-80">
             <div className="col-lg-6" data-aos="fade-right">
               <div className="single-block">
-                <h5 className="block-title pb-30">Our Goal</h5>
-                <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out printed graphic or web designs. The passage is at attributed to an unknown typesetters in 1the 5th century who is thought scrambled with all parts of Cicero De.</p> <br />
-                <p>Malorum for use in a type specimen book. Ionsectetur adipiscing elit.</p>
+                <h5 className="block-title pb-30">Our Mission</h5>
+                <p>Our mission is simple: to empower farmers and agricultural professionals by providing them with the resources, knowledge, and opportunities they need to thrive in an ever-evolving industry. </p> <br />
+                <p>We are committed to fostering sustainable practices, promoting innovation, and enhancing the livelihoods of farmers across the globe.</p>
               </div>
             </div>
             <div className="col-lg-6" data-aos="fade-left">
