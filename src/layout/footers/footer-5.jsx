@@ -36,8 +36,8 @@ const FooterFive = () => {
                 { link: '#', title: 'Plan & Pricing' }, { link: '/blog-default', title: 'News' }]} />
                 <div className="col-md-4 col-sm-6 col-12">
                   <h5 className="title">Address</h5>
-                  <p className="font-lato"><a href="#" className="email">boga.inc@company.com</a></p>
-                  <p className="font-lato"><a href="#" className="phone">720.661.2231</a></p>
+                  <p className="font-lato"><a href="#" className="email">agsmartsolutions@gmail.com</a></p>
+                  <p className="font-lato"><a href="#" className="phone">+254 110427990</a></p>
                 </div>
               </div>
             </div>

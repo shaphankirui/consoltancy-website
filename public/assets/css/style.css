@@ -218,8 +218,8 @@ a.btn.btn-block {
 .ctn-preloader .animation-preloader .spinner {
   animation: spinner 1s infinite linear;
   border-radius: 50%;
-  border: 3px solid rgba(255, 57, 70, 0.15);
-  border-top-color: #ff3946; 
+  border: 3px solid rgba(87, 226, 6, 0.15);
+  border-top-color: #09b371; 
   height: 170px;
   margin: 0 auto 45px auto;
   width: 170px;
@@ -231,7 +231,7 @@ a.btn.btn-block {
 }
 .ctn-preloader .animation-preloader .txt-loading .letters-loading:before {
   animation: letters-loading 4s infinite;
-  color: #ff3946;
+  color: #09b371;
   content: attr(data-text-preloader);
   left: 0;
   opacity: 0;
@@ -244,7 +244,7 @@ a.btn.btn-block {
   font-weight: 700;
   letter-spacing: 15px;
   display: inline-block;
-  color: rgba(255, 57, 70, 0.15);
+  color: rgba(87, 226, 6, 0.15);
   position: relative;
   font-size: 70px;
   line-height: 70px;

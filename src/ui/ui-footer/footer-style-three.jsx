@@ -13,8 +13,8 @@ const FooterStyleThree = () => {
             </a>
           </Link>
         </div>
-        <p><a href="#" className="email">boga.inc@company.com</a></p>
-        <p><a href="#" className="phone">720.661.2231</a></p>
+        <p><a href="#" className="email">agsmartsolutions@gmail.com</a></p>
+        <p><a href="#" className="phone">+254 110427990</a></p>
         <ul className="social-icon">
           <SocialLinks />
         </ul>

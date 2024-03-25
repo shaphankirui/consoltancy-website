@@ -17,7 +17,7 @@ export function ContactUsSection() {
         <div className="contact-info">
           <h2 className="title">Don’t Hesitate to contact with us for any kind of information</h2>
           <p>Call us for imidiate support to this number</p>
-          <a href="#" className="call">088 130 629 8615</a>
+          <a href="#" className="call">+254 110427990</a>
           <ul>
             <SocialLinks />
           </ul>

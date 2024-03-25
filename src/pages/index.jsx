@@ -5,7 +5,7 @@ import HomeMain from "../components/homes/home";
 export default function Home() {
   return (
     <Wrapper>
-      <SEO pageTitle={'Home Default'} />
+      <SEO pageTitle={'Home'} />
       <HomeMain/>
     </Wrapper>
   )

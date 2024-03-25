@@ -50,7 +50,7 @@ const HomeTwoMain = () => {
       <SeoGoal/>
       <ServiceSeo/>
       <SeoWorkProgress/>
-      <SeoPricing/>
+      {/* <SeoPricing/> */}
       <TestimonialOne/>
       <SeoContactBanner/>
       <Footer/>

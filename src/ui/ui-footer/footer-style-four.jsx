@@ -53,8 +53,8 @@ const FooterStyleFour = () => {
             </div>
             <div className="col-lg-3 col-sm-6 col-12 footer-information" data-aos="fade-up">
               <h5 className="title">Contact</h5>
-              <p><a href="#" className="email">boga.inc@company.com</a></p>
-              <p><a href="#" className="phone">720.661.2231</a></p>
+              <p><a href="#" className="email">agsmartsolutions@gmail.com</a></p>
+              <p><a href="#" className="phone">+254 110427990</a></p>
               <ul className="social-icon">
                 <SocialLinks />
               </ul>
