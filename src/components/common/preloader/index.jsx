@@ -15,6 +15,9 @@ const index = () => {
 								<span data-text-preloader="G" className="letters-loading">
 									G
 								</span>
+								<span data-text-preloader="-" className="letters-loading">
+									-
+								</span>
 								<span data-text-preloader="S" className="letters-loading">
 									S
 								</span>
