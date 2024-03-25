@@ -1,6 +1,6 @@
-import Link from 'next/link';
-import React from 'react';
-import { SocialLinks } from '../../components/social-links';
+import Link from "next/link";
+import React from "react";
+import { SocialLinks } from "../../components/social-links";
 
 const FooterStyleFourLight = () => {
   return (
@@ -8,20 +8,42 @@ const FooterStyleFourLight = () => {
       <div className="top-footer">
         <div className="container">
           <div className="row">
-            <div className="col-lg-4 col-sm-6 col-12 about-widget" data-aos="fade-up">
-              <p>We point past each other with our words, arguing as though we’re looking at the same facts & great experiences.</p>
-              <a href="#" className="theme-button-two">Ask Question</a>
+            <div
+              className="col-lg-4 col-sm-6 col-12 about-widget"
+              data-aos="fade-up"
+            >
+              <p>
+                We point past each other with our words, arguing as though we’re
+                looking at the same facts & great experiences.
+              </p>
+              <a href="#" className="theme-button-two">
+                Ask Question
+              </a>
             </div>
-            <div className="col-lg-2 col-sm-6 col-12 footer-list" data-aos="fade-up">
+            <div
+              className="col-lg-2 col-sm-6 col-12 footer-list"
+              data-aos="fade-up"
+            >
               <h5 className="title">Info</h5>
               <ul>
-                <li><a href="#">Support</a></li>
-                <li><a href="#">Developers</a></li>
-                <li><a href="#">Service</a></li>
-                <li><a href="#">Get Started</a></li>
+                <li>
+                  <a href="#">Support</a>
+                </li>
+                <li>
+                  <a href="#">Developers</a>
+                </li>
+                <li>
+                  <a href="#">Service</a>
+                </li>
+                <li>
+                  <a href="#">Get Started</a>
+                </li>
               </ul>
             </div>
-            <div className="col-lg-3 col-sm-6 col-12 footer-list" data-aos="fade-up">
+            <div
+              className="col-lg-3 col-sm-6 col-12 footer-list"
+              data-aos="fade-up"
+            >
               <h5 className="title">Company</h5>
               <ul>
                 <li>
@@ -40,13 +62,25 @@ const FooterStyleFourLight = () => {
                   </Link>
                 </li>
                 <li>
-                  <a href="#">Works</a></li>
+                  <a href="#">Works</a>
+                </li>
               </ul>
             </div>
-            <div className="col-lg-3 col-sm-6 col-12 footer-information" data-aos="fade-up">
+            <div
+              className="col-lg-3 col-sm-6 col-12 footer-information"
+              data-aos="fade-up"
+            >
               <h5 className="title">Contact</h5>
-              <p><a href="#" className="email">agsmartsolutions@gmail.com</a></p>
-              <p><a href="#" className="phone">+254 110427990</a></p>
+              <p>
+                <a href="#" className="email">
+                  Ag-Smartsolutions@gmail.com
+                </a>
+              </p>
+              <p>
+                <a href="#" className="phone">
+                  +254 110427990
+                </a>
+              </p>
               <ul className="social-icon">
                 <SocialLinks />
               </ul>
@@ -58,15 +92,21 @@ const FooterStyleFourLight = () => {
       <div className="container">
         <div className="bottom-footer">
           <div className="clearfix">
-            <p>&copy; {new Date().getFullYear()} copyright all right reserved</p>
+            <p>
+              &copy; {new Date().getFullYear()} copyright all right reserved
+            </p>
             <ul>
-              <li><a href="#">Privace & Policy.</a></li>
+              <li>
+                <a href="#">Privace & Policy.</a>
+              </li>
               <li>
                 <Link href="/faq">
-                  <a >Faq.</a>
+                  <a>Faq.</a>
                 </Link>
               </li>
-              <li><a href="#">Terms.</a></li>
+              <li>
+                <a href="#">Terms.</a>
+              </li>
             </ul>
           </div>
         </div>

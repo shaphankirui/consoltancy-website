@@ -4,7 +4,7 @@ import React from 'react';
 const contents = {
   img: '/assets/images/shape/banner-shape4.svg',
   title: <>Boostup your <br />Business Growth in <br />Just One Click.</>,
-  subtitle: <>Welcome to AgTech Solutions, <br />Where Expertise Meets Opportunity!</>,
+  subtitle: <>Welcome to Ag-Smart Solutions, <br />Where Expertise Meets Opportunity!</>,
 }
 const { img, subtitle, title } = contents;
 

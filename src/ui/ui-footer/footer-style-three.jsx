@@ -1,6 +1,6 @@
-import Link from 'next/link';
-import React from 'react';
-import { SocialLinks } from '../../components/social-links';
+import Link from "next/link";
+import React from "react";
+import { SocialLinks } from "../../components/social-links";
 
 const FooterStyleThree = () => {
   return (
@@ -13,12 +13,22 @@ const FooterStyleThree = () => {
             </a>
           </Link>
         </div>
-        <p><a href="#" className="email">agsmartsolutions@gmail.com</a></p>
-        <p><a href="#" className="phone">+254 110427990</a></p>
+        <p>
+          <a href="#" className="email">
+            Ag-Smartsolutions@gmail.com
+          </a>
+        </p>
+        <p>
+          <a href="#" className="phone">
+            +254 110427990
+          </a>
+        </p>
         <ul className="social-icon">
           <SocialLinks />
         </ul>
-        <p className="copy-right">&copy; {new Date().getFullYear()} copyright all right reserved</p>
+        <p className="copy-right">
+          &copy; {new Date().getFullYear()} copyright all right reserved
+        </p>
       </div>
     </footer>
   );
